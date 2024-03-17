@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter" />
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
@@ -27,9 +28,54 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+
 </div>
 
 <hr>
+
+### Projects
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <img src="https://gh-card.dev/repos/minju-kim98/ssafy-rccar.svg" alt="project1" vertical-align="middle"/>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <img src="https://gh-card.dev/repos/minju-kim98/gwangju_6.github.io.svg" alt="project2" vertical-align="middle"/>
+        </div>
+        </td>
+      </tr>
+       <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <img src="https://gh-card.dev/repos/minju-kim98/NoblyTV.svg" alt="project3" vertical-align="middle"/>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+        </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <img src="https://gh-card.dev/repos/minju-kim98/monkey.svg" alt="project5" vertical-align="middle"/>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <img src="https://gh-card.dev/repos/minju-kim98/UTL_SMTP.svg" alt="project6" vertical-align="middle"/>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
 
 ### GitHub Stats 📈
 <div align="center">
