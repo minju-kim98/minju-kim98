@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning at SSAFY (Samsung Software Academy for Youth).
-- 👯 I’m graduated from Seoul National University, Seoul, Korea.
+- 💼 I’m currently working as an Assistant Manager at DIT Corp.'s AI Research & Development Labs.
+- 🌱 I completed training at SSAFY (Samsung Software Academy for Youth).
+- 👯 I graduated from Seoul National University, Seoul, Korea.
 
 <hr>
 
